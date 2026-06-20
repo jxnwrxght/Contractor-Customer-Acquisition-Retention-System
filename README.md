@@ -1,8 +1,16 @@
 # AI-Assisted Customer Capture System for Service Businesses
 
-An automated customer capture workflow designed to help service businesses respond to missed calls and texts, engage potential customers, and organize inbound leads for follow-up.
+An automated customer capture workflow designed to help service businesses respond to missed calls and texts, engage potential customers, and prevent opportunities from being lost while contractors are busy serving existing customers.
 
 ---
+
+## Current Status
+
+## Current Status
+
+Proof-of-concept implementation completed and tested.
+
+The system successfully demonstrates automated responses, AI-assisted customer engagement, lead logging, and contractor notification workflows.
 
 Core components include:
 
@@ -13,19 +21,19 @@ Core components include:
 * Owner notifications
 * Basic CRM integration
 
-This project was built as a proof of concept to explore how AI and automation can help service businesses capture opportunities that would otherwise be lost when business owners are busy, unavailable, or unable to respond immediately.
+This project was built as a proof of concept to explore how AI and automation can help service businesses capture opportunities that would otherwise be lost when business owners are unavailable or unable to respond immediately.
 
 ---
 
 ## Background
 
-While speaking with local contractors I work with via my real estate business, I noticed a common challenge: most spend the majority of their day performing the actual work rather than sitting behind a desk.
+While speaking with local contractors I work with in my real estate business, I noticed a common challenge: most spend the majority of their day performing the actual work rather than sitting behind a desk.
 
 Whether they're on a roof, inside an attic, driving between jobs, or meeting with customers, there are long periods where answering calls and responding to texts simply isn't possible.
 
-The problem isn't that they don't want to respond. it's just that they're busy doing the work customers are paying them to do.
+The problem isn't that they don't want to respond, it's that they're busy doing the work other customers are paying them to do.
 
-During that time, potential customers are often left waiting for a response. Many will contact multiple contractors at once and move on to whoever replies first.
+During that time, potential customers are often left waiting for a response and slip through the cracks. Many will contact multiple contractors at once and move on to whoever replies first, often a competitor.
 
 I wanted to explore whether AI and automation could help bridge that gap by responding immediately, collecting basic information, and keeping the conversation alive until the contractor becomes available.
 
@@ -42,11 +50,10 @@ If a contractor misses a call or cannot respond to a text quickly, the opportuni
 The challenge isn't generating more leads.
 
 The challenge is preventing interested customers from slipping through the cracks while the contractor is busy serving existing customers.
+
 ---
 
 ## System Overview
-
-The current workflow operates as follows:
 
 Customer Calls
 
@@ -80,19 +87,27 @@ Personal Follow-Up
 
 ---
 
-## Screenshots
+## Customer Intake Workflow
 
-### Customer Capture Workflow
+![Customer Intake Workflow](Customer%20Capture%20System_Customer%20Intake%20Workflow.png)
 
-![Customer Capture Workflow](customer-intake-workflow.png)
+---
 
-### CRM Lead Log
+## CRM Lead Log Example
 
-![CRM Lead Log](crm-pipeline.png)
+![CRM Lead Log Example](Customer%20Capture%20System_CRM%20Lead%20Log%20Example.png)
 
-### Technology Stack
+---
 
-![Technology Stack](technology-stack.png)
+## Technology Stack
+
+![Technology Stack](Customer%20Capture%20System_Technology%20Stack.png)
+
+---
+
+## Zapier Workflow Example
+
+![Zapier Workflow Example](Customer%20Capture%20System_Zapier%20Missed%20Text%20Example%20Workflow.png)
 
 ---
 
@@ -112,22 +127,23 @@ This project reinforced the idea that small operational improvements can have a 
 
 Future versions may include:
 
-* Customer retention workflows
-* Review request automation
-* Maintenance reminders
-* Lead prioritization
-* Multi-agent customer intake
-* Revenue opportunity tracking
-* Expanded CRM automation
+* Missed call voice transcription
+* Improved lead qualification
+* Appointment scheduling integration
+* Enhanced contractor notifications
+* Service-specific response workflows
+* Expanded CRM functionality
 
 ---
 
 ## Repository Contents
 
-* Executive Summary
-* Detailed Case Study
-* Client Presentation Deck
-* CRM Example
-* Lead Log Example
-* Workflow Documentation
-* Zapier Workflow Exports
+* Customer Capture System_Executive Summary.pdf
+* Customer Capture System_Written Case Study.pdf
+* Customer Capture System_Slide Deck.pptx
+* Customer Capture System_CRM Lead Log Example.xlsx
+* Customer Capture System_Customer Intake Workflow.png
+* Customer Capture System_CRM Lead Log Example.png
+* Customer Capture System_Technology Stack.png
+* Customer Capture System_Zapier Missed Text Example Workflow.png
+

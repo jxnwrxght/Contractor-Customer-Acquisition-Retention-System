@@ -6,12 +6,12 @@ An automated customer capture workflow designed to help service businesses respo
 
 ## Results at a Glance
 
-- Automated missed-call follow-up
-- Automated missed-text engagement
-- Structured customer information capture
-- Automatic lead logging
-- Contractor notification workflow
-- Reduced risk of losing inbound opportunities
+• Immediate follow-up after missed calls
+• Reduced risk of losing inbound opportunities
+• Structured customer information capture
+• Automated lead logging
+• Improved contractor visibility into new inquiries
+• Repeatable workflow requiring minimal manual intervention
 
 This project focused on improving responsiveness for service contractors by automatically engaging missed-call customers and capturing inquiry information for follow-up.
 
@@ -55,7 +55,7 @@ Example workflow used to automate customer engagement and lead capture.
 
 ---
 
-## Lessons Learned
+## Key Takeaways
 
 One of the biggest takeaways from building this system was realizing how valuable responsiveness can be.
 
@@ -66,8 +66,6 @@ Even a simple automated conversation can help keep a customer engaged long enoug
 This project reinforced the idea that small operational improvements can have a meaningful impact on customer experience and business outcomes.
 
 ---
-
-## Repository Contents
 
 ## Repository Contents
 

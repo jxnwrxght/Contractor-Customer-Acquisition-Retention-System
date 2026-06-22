@@ -1,6 +1,6 @@
 # AI-Assisted Customer Capture System for Service Businesses
 
-An automated customer capture workflow designed to help service businesses respond to missed calls and texts, engage potential customers, and prevent opportunities from being lost while contractors are busy serving existing customers.
+An automated customer capture workflow designed to help service businesses respond to missed calls and texts, engage potential customers, and prevent potential customers from slipping through the cracks while contractors are busy serving existing customers.
 
 ---
 
